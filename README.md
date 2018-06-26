@@ -1,4 +1,4 @@
-# MLP-optimizer
+# Metaheuristic-MLP
 
 This is a simple Matlab code for training MultiLayer Perceptron (MLP) networks using different mateheuristic optimizers. 
 
