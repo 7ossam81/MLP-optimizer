@@ -1,4 +1,5 @@
 # Metaheuristic-MLP
+# Optimize single hidden neural network using metaheuristic algorithms
 
 This is a simple Matlab code for training MultiLayer Perceptron (MLP) networks using different mateheuristic optimizers. 
 
